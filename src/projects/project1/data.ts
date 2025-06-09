@@ -6,7 +6,7 @@ export type Node ={
 }
 
 
-export const FolderStructure = {
+export const FolderStructure:Node = {
     name:'root',
     isFolder:true,
     children:[

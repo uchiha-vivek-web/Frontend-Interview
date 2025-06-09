@@ -1,8 +1,5 @@
 
-import Main from "./projects/project1/main"
-
- 
-
+import Project2 from "./projects/project2/Main"
 function App() {
 
 
@@ -17,7 +14,7 @@ function App() {
       <div>
          {/* <Webrtc/> */}
          {/* <VideoRecorder/> */}
-         <Main/>
+         <Project2/>
       </div>
     </>
   )
